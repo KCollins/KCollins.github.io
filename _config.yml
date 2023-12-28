@@ -14,9 +14,9 @@
 locale                   : "en-US"
 title                    : "Kristina Collins / Projects and Notes"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kristina Collins"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KCollins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -270,6 +270,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme # for skins
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
