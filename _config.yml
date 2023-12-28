@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kristina Collins / Projects"
 title_separator          : "-"
 name                     : &name "Kristina Collins"
 description              : &description "personal description"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "kristinacollins"
+  youtube          : "https://www.youtube.com/channel/UCtHifdPdSR7FuSfS5ShZdjg"
   wikipedia        :
 
 
