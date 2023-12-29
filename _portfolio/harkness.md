@@ -4,6 +4,30 @@ excerpt: "A python library for easy VR-compatible 3D data visualization<br/><img
 collection: portfolio
 ---
 
+harkness is a python library for displaying pandas. 
+
+## Minimum Working Example:
+```
+# Install harkness if needed:
+pip install harkness
+
+# Import libraries
+import pandas as pd
+from harkness.create_ply import create_ply
+
+# Generate sample data
+data = {'X': [1, 2, 3],
+        'Y': [4, 5, 6],
+        'Z': [7, 8, 9],
+        'C': [10, 20, 30]}
+
+df = pd.DataFrame(data)
+
+# Create PLY file
+filename = 'example.ply'
+create_ply(df, filename, C='C', is_verbose=True)
+```
+
 <!-- Import the component -->
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
 
