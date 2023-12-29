@@ -1,7 +1,7 @@
 ---
 title: "EECS 351: Communications and Signal Analysis"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/eecs351
 venue: "Case Western Reserve University, Electrical Engineering and Computer Science"
 date: 2018
