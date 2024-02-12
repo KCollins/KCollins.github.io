@@ -22,7 +22,7 @@ I'm also interested in using virtual reality, sonification and other immersive t
 
 My communities
 ======
-In my copious free time, I develop open-source [carbon dioxide removal](https://cdrprimer.org/) technologies with the [OpenAir Collective](https://openaircollective.com/about/). I maintain the [OpenAir Zenodo](https://zenodo.org/communities/openair?q=&l=list&p=1&s=10&sort=newest) and help people document their hardware projects. (I'm a big believer in [FAIR](www.go-fair.org) data and documentation -- as Leslie Lamport is said to have said, ``If you're thinking without writing, you only think you're thinking.'')
+In my copious free time, I develop open-source [carbon dioxide removal](https://cdrprimer.org/) technologies with the [OpenAir Collective](https://openaircollective.com/about/). I maintain the [OpenAir Zenodo](https://zenodo.org/communities/openair?q=&l=list&p=1&s=10&sort=newest) and help people document their hardware projects. (I'm a big believer in [FAIR](https://www.go-fair.org/) data and documentation -- as Leslie Lamport is said to have said, ``If you're thinking without writing, you only think you're thinking.'')
 
 I'm an active alumna at CWRU, particularly through the [CWRU Film Society](https://films.case.edu) and the [Case Amateur Radio Club](https://w8edu.wordpress.com). 
 
