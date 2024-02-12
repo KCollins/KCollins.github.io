@@ -22,13 +22,13 @@ I'm also interested in using virtual reality, sonification and other immersive t
 
 My communities
 ======
-
+In my copious free time, I develop open-source [carbon dioxide removal](https://cdrprimer.org/) technologies with the [OpenAir Collective](https://openaircollective.com/about/). I maintain the [OpenAir Zenodo](https://zenodo.org/communities/openair?q=&l=list&p=1&s=10&sort=newest) and help people document their hardware projects. (I'm a big believer in [FAIR](www.go-fair.org) data and documentation -- as Leslie Lamport is said to have said, ``If you're thinking without writing, you only think you're thinking.'')
 
 I'm an active alumna at CWRU, particularly through the [CWRU Film Society](https://films.case.edu) and the [Case Amateur Radio Club](https://w8edu.wordpress.com). 
 
 I enjoy sailing on Lake Erie and scuba diving with the CWRU SCUBA club. I am always looking for new SCUBA buddies.
 
-I am a member of the [Luxuriant Flowing Hair Club for Scientists](https://improbable.com/2021/11/23/kristina-collins-joins-luxuriant-flowing-hair-club-for-scientists-lfhfc/).
+I am also a member of the [Luxuriant Flowing Hair Club for Scientists](https://improbable.com/2021/11/23/kristina-collins-joins-luxuriant-flowing-hair-club-for-scientists-lfhfc/).
 
 <!-- Is this the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages? [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
