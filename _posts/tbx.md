@@ -31,10 +31,13 @@ think[box] 1.0: The Busy Bees
 
 While we were working on things in Glennan, Lincoln Storage was being renovated:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OuFfpoC-brM?si=EkJ8A6iLjAW_1Ygy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+(talk about window installation, legend thereof)
 
 think[box] 2.0: Floor by Floor
 ------
 (Talk about phased installation; memories of bringing the first hardware from Lincoln Storage to Glennan and back again)
+
+(Talk about naming rights, curricular integration)
 
 
 
