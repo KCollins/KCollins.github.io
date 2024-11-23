@@ -1,1 +1,1 @@
-[Download my CV here.](http://academicpages.github.io/files/CollinsCV.pdf).
+[Download my CV here.](http://academicpages.github.io/files/Collins_CV.pdf).
