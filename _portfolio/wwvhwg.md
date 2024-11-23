@@ -1,6 +1,6 @@
 ---
 title: "WWV/H Scientific Modulation Working Group"
-excerpt: "Using NIST-supported time standard stations as radio science beacons. <br/><img src='/images/wwvhwg.png'>"
+excerpt: "Using NIST-supported time standard stations as radio science beacons. <br/><img src='/images/wwvhwg.jpg'>"
 collection: portfolio
 ---
 
