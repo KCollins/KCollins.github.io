@@ -1,10 +1,12 @@
 ---
 title: "harkness"
-excerpt: "A python library for easy VR-compatible 3D data visualization<br/><img src='/images/image20849.jpg'>"
+excerpt: "A python library for easy VR-compatible 3D data visualization.<br/><img src='/images/image20849.jpg'>"
 collection: portfolio
 ---
 
-harkness is a python library for displaying pandas. 
+[harkness](https://github.com/KCollins/harkness) is a python library for displaying pandas. 
+
+[![PyPI version](https://badge.fury.io/py/harkness.svg)](https://badge.fury.io/py/harkness) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10223765.svg)](https://doi.org/10.5281/zenodo.10223765)
 
 ## Minimum Working Example:
 ```
