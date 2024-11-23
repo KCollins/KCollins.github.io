@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8c917f8-c971-4181-b49c-9b239b0995b5)---
+---
 title: "WWV/H Scientific Modulation Working Group"
 excerpt: "Using NIST-supported time standard stations as radio science beacons. <br/><img src='/images/wwvhwg.png'>"
 collection: portfolio
