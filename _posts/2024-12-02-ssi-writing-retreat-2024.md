@@ -1,12 +1,14 @@
 ---
 title: 'SSI Writing Retreat 2024'
-date: 2024-11-24
+date: 2024-12-02
 permalink: /posts/writing_retreat2024
 tags:
   - writing retreat
   - Space Science Institute
   - early career
 ---
+This is a page summarizing the December 2024 virtual writing retreat at the Space Science Institute. 
+
 # Space Science Institute Writing Retreat, 3-6 December 2024
 
 ## Agenda
