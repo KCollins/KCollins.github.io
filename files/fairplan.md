@@ -36,7 +36,8 @@ gantt
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
             Contact Vertical: vertical, 2026-05-01, 1d
-            Volunteer Recruitment: recruit, 2026-09-25, 3d
+            Set up CampusGroups page: campusgroups, 2026-06-01, 1d
+            Volunteer Recruitment: recruit, 2026-08-25, 30d
             Street Cleanup: cleanup, 2026-09-29, 3d
             Street Fair        :milestone, streetfair, 2026-10-03, 1d
 
