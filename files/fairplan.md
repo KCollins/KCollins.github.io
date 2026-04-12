@@ -1,4 +1,5 @@
 ```mermaid
+%%{init: {'theme': 'forest'}}%%
 gantt
     title  Hessler Street Fair Planning
     dateFormat YYYY-MM-DD
@@ -35,6 +36,7 @@ gantt
             Lemons: lemons, 2026-09-01, 1d
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
+            Next Meeting :vert, v1, 2026-04-26, 0d
             Contact Vertical: vertical, 2026-05-01, 1d
             Contact Admissions: admissions, 2026-05-01, 1d
             Contact MSASS: msass, 2026-05-01, 1d
