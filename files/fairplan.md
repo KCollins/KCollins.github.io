@@ -8,9 +8,9 @@ gantt
             Fire permit    :firepermit, after vendorselect, 1d
 
     section PR
-            Finalize branding : brand, 2026-04-20, 20d
+            Finalize branding : brand, 2026-05-30, 20d
             Design flyers : flyers, after brand, 10d
-            Design swag    : designswag, 2026-05-01, 40d
+            Design swag    : designswag, 2026-05-30, 40d
             Post to socials: socials, 2026-09-01, 2d
     section Tech
             Tech committee meeting: techmeet, 2026-04-13, 1d
@@ -37,7 +37,7 @@ gantt
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
             Next Meeting :vert, v1, 2026-04-26, 0d
-            Contact Vertical: vertical, 2026-05-01, 1d
+            Contact Vertical: done, vertical, 2026-05-01, 1d
             Contact Admissions: admissions, 2026-05-01, 1d
             Contact MSASS: msass, 2026-05-01, 1d
             Set up CampusGroups page: campusgroups, 2026-06-01, 1d
