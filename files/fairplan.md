@@ -13,7 +13,7 @@ gantt
             Design swag    : designswag, 2026-05-30, 40d
             Post to socials: socials, 2026-09-01, 2d
     section Tech
-            Tech committee meeting: techmeet, 2026-04-13, 1d
+            Tech committee meeting: done, techmeet, 2026-04-13, 1d
             Get URL working:done, url, after techmeet, 7d
             Basic event website: basicsite, after url, 7d
             Set up webstore: webstore, after basicsite, 10d
