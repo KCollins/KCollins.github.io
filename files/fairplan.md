@@ -50,3 +50,6 @@ gantt
             Street Fair        :milestone, streetfair, 2026-10-03, 1d
 
 ```
+
+<img width="964" height="431" alt="image" src="https://github.com/user-attachments/assets/790f245c-ed9e-466e-9295-0b31f9ddace8" />
+
