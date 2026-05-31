@@ -30,7 +30,7 @@ gantt
             Publicize vendors: vendor-announce, after vendorselect, 10d
     section Music
             Coordinate with Vertical Sound    :done, vertical, 2026-04-15, 1d
-            Coordinate with Angie of WKYC    : wkyc, 2026-05-20, 1d
+            Coordinate with Angie of WKYC    : done, wkyc, 2026-05-20, 1d
             Contact WRUW: wruw, 2026-06-01, 1d
             Compose list of musicians: musiclist, 2026-05-20, 15d
     section Procurement
@@ -39,10 +39,10 @@ gantt
             Lemons: lemons, 2026-09-01, 1d
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
-            Next Meeting :vert, v1, 2026-04-26, 0d
+            Next Meeting :vert, v1, 2026-06-07, 0d
             Contact Vertical: done, vertical, 2026-05-01, 1d
-            Contact Admissions: admissions, 2026-05-01, 1d
-            Contact MSASS: msass, 2026-05-01, 1d
+            Contact Admissions: admissions, 2026-07-01, 1d
+            Contact MSASS: msass, 2026-07-01, 1d
             Set up CampusGroups page: campusgroups, 2026-06-01, 1d
             Local publicity: publicize, 2026-08-01, 20d
             Volunteer Recruitment: recruit, 2026-08-25, 30d
@@ -64,6 +64,7 @@ sankey-beta
 
 Gold Sponsor, General Fund, 5000
 General Fund, Stage, 3000
-Permits, Insurance, 50
+Permits, Insurance, 700
 Permits, Food, 40
+General Fund, Security, 2000
 ```
