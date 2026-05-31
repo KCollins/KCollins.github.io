@@ -9,8 +9,8 @@ gantt
             Fire permit    :firepermit, after vendorselect eventpermit, 1d
 
     section PR
-            Finalize branding : brand, 2026-05-20, 15d
-            Design flyers : flyers, after brand, 10d
+            Finalize branding : brand, 2026-05-20, 25d
+            Design flyers : flyers, after brand, 20d
             Design swag    : designswag, 2026-05-30, 40d
             Post to socials: socials, 2026-09-01, 2d
     section Tech
@@ -21,18 +21,18 @@ gantt
     section Fundraising
             Swag store    :swagstore, after designswag webstore swag, 10d
     section Vendors
-            Find/make vendor map: vendormap, 2026-05-20, 5d
-            List invited vendors: done, invitelist, 2026-05-20, 7d
+            Find/make vendor map: vendormap, 2026-05-20, 10d
+            List invited vendors: done, invitelist, 2026-06-05, 7d
             Invite invited vendors: invite, after invitelist eventpermit, 1d
-            Vendor policies: policy, 2026-05-20, 10d
-            Vendor application process: vendorapp, 2026-05-20, 10d
+            Vendor policies: policy, 2026-06-05, 10d
+            Vendor application process: vendorapp, 2026-06-05, 10d
             Select vendors: vendorselect, after invitelist vendorapp, 10d
             Publicize vendors: vendor-announce, after vendorselect, 10d
     section Music
             Coordinate with Vertical Sound    :done, vertical, 2026-04-15, 1d
             Coordinate with Angie of WKYC    : done, wkyc, 2026-05-20, 1d
-            Contact WRUW: wruw, 2026-06-01, 1d
-            Compose list of musicians: musiclist, 2026-05-20, 15d
+            Contact WRUW: wruw, 2026-06-15, 1d
+            Compose list of musicians: musiclist, 2026-05-20, 25d
     section Procurement
             Order swag:   swag, after swagstore, 7d
             Supplies: supplies, 2026-08-15, 7d
@@ -43,7 +43,7 @@ gantt
             Contact Vertical: done, vertical, 2026-05-01, 1d
             Contact Admissions: admissions, 2026-07-01, 1d
             Contact MSASS: msass, 2026-07-01, 1d
-            Set up CampusGroups page: campusgroups, 2026-06-01, 1d
+            Set up CampusGroups page: campusgroups, 2026-07-01, 1d
             Local publicity: publicize, 2026-08-01, 20d
             Volunteer Recruitment: recruit, 2026-08-25, 30d
             Street Cleanup: cleanup, 2026-09-29, 3d
