@@ -22,7 +22,7 @@ gantt
             Swag store    :swagstore, after designswag webstore swag, 10d
     section Vendors
             Find/make vendor map: vendormap, 2026-05-20, 5d
-            List invited vendors: invitelist, 2026-05-20, 7d
+            List invited vendors: done, invitelist, 2026-05-20, 7d
             Invite invited vendors: invite, after invitelist eventpermit, 1d
             Vendor policies: policy, 2026-05-20, 10d
             Vendor application process: vendorapp, 2026-05-20, 10d
