@@ -53,3 +53,17 @@ gantt
 
 <img width="964" height="431" alt="image" src="https://github.com/user-attachments/assets/790f245c-ed9e-466e-9295-0b31f9ddace8" />
 
+```mermaid
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+
+
+Gold Sponsor, General Fund, 5000
+General Fund, Stage, 3000
+Permits, Insurance, 50
+Permits, Food, 40
+```
