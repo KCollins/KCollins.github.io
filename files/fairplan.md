@@ -39,7 +39,7 @@ gantt
             Lemons: lemons, 2026-09-01, 1d
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
-            Next Meeting :vert, v1, 2026-06-07, 0d
+            Next Meeting :vert, v1, 2026-06-13, 0d
             Contact Vertical: done, vertical, 2026-05-01, 1d
             Contact Admissions: admissions, 2026-07-01, 1d
             Contact MSASS: msass, 2026-07-01, 1d
