@@ -7,9 +7,12 @@ gantt
             Street closure permit    :streetpermit, 2026-04-15, 1d
             Special Event Permit Application    :eventpermit, 2026-06-01, 1d
             Fire permit    :firepermit, after vendorselect eventpermit, 1d
+            Letter of permission from alpha: alphaletter, 2026-06-14, 14d
+            Insurance: insurance, after alphaletter, 7d
 
     section PR
             Finalize branding :active, brand, 2026-05-20, 25d
+            %% Reminder: get binder back from Zoe!
             Design flyers : flyers, after brand, 20d
             Design swag    : designswag, 2026-05-30, 40d
             Build printing plates for Gutenberg Annex: active, 3dplates, 2026-06-07, 50d
@@ -20,8 +23,9 @@ gantt
             Basic event website: basicsite, after brand, 7d
             Set up webstore: webstore, after basicsite, 10d
     section Fundraising
+            Resolve Ohio nonprofit purchasing status: nonprofitstatus, 2026-06-07, 14d
             Get Paypal button working: paypal, 2026-06-07, 7d
-            Swag store    :swagstore, after designswag webstore swag, 10d
+            Swag store (Stripe?)    :swagstore, after designswag webstore swag, 10d
     section Vendors
             Find/make vendor map: vendormap, 2026-05-20, 10d
             List invited vendors: done, invitelist, 2026-06-05, 7d
