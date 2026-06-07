@@ -20,6 +20,7 @@ gantt
             Basic event website: basicsite, after brand, 7d
             Set up webstore: webstore, after basicsite, 10d
     section Fundraising
+            Get Paypal button working: paypal, 2026-06-07, 7d
             Swag store    :swagstore, after designswag webstore swag, 10d
     section Vendors
             Find/make vendor map: vendormap, 2026-05-20, 10d
