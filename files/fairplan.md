@@ -9,9 +9,10 @@ gantt
             Fire permit    :firepermit, after vendorselect eventpermit, 1d
 
     section PR
-            Finalize branding : brand, 2026-05-20, 25d
+            Finalize branding :active, brand, 2026-05-20, 25d
             Design flyers : flyers, after brand, 20d
             Design swag    : designswag, 2026-05-30, 40d
+            Build printing plates for Gutenberg Annex: active, 3dplates, 2026-06-07, 50d
             Post to socials: socials, 2026-09-01, 2d
     section Tech
             Tech committee meeting: done, techmeet, 2026-04-13, 1d
@@ -31,7 +32,7 @@ gantt
     section Music
             Coordinate with Vertical Sound    :done, vertical, 2026-04-15, 1d
             Coordinate with Angie of WKYC    : done, wkyc, 2026-05-20, 1d
-            Contact WRUW: wruw, 2026-06-15, 1d
+            Contact WRUW:active,  wruw, 2026-06-15, 1d
             Compose list of musicians: musiclist, 2026-05-20, 25d
     section Procurement
             Order swag:   swag, after swagstore, 7d
