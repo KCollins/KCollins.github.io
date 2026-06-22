@@ -23,15 +23,15 @@ gantt
             Basic event website: basicsite, after brand, 7d
             Set up webstore: webstore, after basicsite, 10d
     section Fundraising
-            Resolve Ohio nonprofit purchasing status: nonprofitstatus, 2026-06-07, 14d
-            Get Paypal button working: paypal, 2026-06-07, 7d
+            Resolve Ohio nonprofit purchasing status: nonprofitstatus, 2026-06-07, 24d
+            Get Paypal button working: paypal, 2026-06-07, 24d
             Swag store (Stripe?)    :swagstore, after designswag webstore swag, 10d
     section Vendors
             Find/make vendor map: vendormap, 2026-05-20, 10d
             List invited vendors: done, invitelist, 2026-06-05, 7d
             Invite invited vendors: invite, after invitelist eventpermit, 1d
-            Vendor policies: policy, 2026-06-05, 10d
-            Vendor application process: vendorapp, 2026-06-05, 10d
+            Vendor policies: policy, 2026-06-05, 25d
+            Vendor application process: vendorapp, 2026-06-05, 25d
             Select vendors: vendorselect, after invitelist vendorapp, 10d
             Publicize vendors: vendor-announce, after vendorselect, 10d
     section Music
@@ -39,6 +39,7 @@ gantt
             Coordinate with Angie of WKYC    : done, wkyc, 2026-05-20, 1d
             Contact WRUW:active,  wruw, 2026-06-15, 1d
             Compose list of musicians: musiclist, 2026-05-20, 25d
+            Ask musicians (Tim): timask, 2026-06-22, 7d
     section Procurement
             Order swag:   swag, after swagstore, 7d
             Supplies: supplies, 2026-08-15, 7d
