@@ -5,7 +5,7 @@ gantt
     dateFormat YYYY-MM-DD
     section Permits
             Street closure permit    :streetpermit, 2026-04-15, 1d
-            Special Event Permit Application    :eventpermit, 2026-06-01, 1d
+            Special Event Permit Application    :active, eventpermit, 2026-06-01, 1d
             Fire permit    :firepermit, after vendorselect eventpermit, 1d
             Letter of permission from alpha: alphaletter, 2026-06-14, 14d
             Insurance: insurance, after alphaletter, 7d
@@ -38,15 +38,15 @@ gantt
             Coordinate with Vertical Sound    :done, vertical, 2026-04-15, 1d
             Coordinate with Angie of WKYC    : done, wkyc, 2026-05-20, 1d
             Contact WRUW:active,  wruw, 2026-06-15, 1d
-            Compose list of musicians: musiclist, 2026-05-20, 25d
-            Ask musicians (Tim): timask, 2026-06-22, 7d
+            Compose list of musicians: active, musiclist, 2026-05-20, 25d
+            Ask musicians (Tim): active, timask, 2026-06-22, 7d
     section Procurement
             Order swag:   swag, after swagstore, 7d
             Supplies: supplies, 2026-08-15, 7d
             Lemons: lemons, 2026-09-01, 1d
     section Planning
             Pick a date :done, pick, 2026-03-29, 1d
-            Next Meeting :vert, v1, 2026-06-29, 0d
+            Next Meeting :vert, v1, 2026-07-06, 0d
             Contact Vertical: done, vertical, 2026-05-01, 1d
             Contact Admissions: admissions, 2026-07-01, 1d
             Contact MSASS: msass, 2026-07-01, 1d
