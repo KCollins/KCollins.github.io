@@ -11,7 +11,7 @@ gantt
             Insurance: insurance, after alphaletter, 7d
 
     section PR
-            Finalize branding :active, brand, 2026-05-20, 25d
+            Finalize branding :active, brand, 2026-05-20, 40d
             %% Reminder: get binder back from Zoe!
             Design flyers : flyers, after brand, 20d
             Design swag    : designswag, 2026-05-30, 40d
