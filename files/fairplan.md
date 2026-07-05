@@ -6,8 +6,8 @@ gantt
     section Permits
             Street closure permit    :active, streetpermit, 2026-04-15, 1d
             Special Event Permit Application    :done, eventpermit, 2026-06-01, 1d
-            Fire permit    :firepermit, after vendorselect eventpermit, 1d
-            Letter of permission from alpha: alphaletter, 2026-06-14, 14d
+            Fire permit    :done, firepermit, after vendorselect eventpermit, 1d
+            Letter of permission from alpha: alphaletter, 2026-07-14, 14d
             Insurance: insurance, after alphaletter, 7d
 
     section PR
