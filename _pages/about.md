@@ -14,15 +14,15 @@ This site isn't a comprehensive record of what I do, just stuff I wanted to be a
 
 My work and research
 ======
-I'm interested in how open-source hardware can broaden participation and accelerate progress in science and engineering. I explored this in my dissertation work with [HamSCI](https://www.hamsci.org). 
+I'm interested in how open-source hardware can broaden participation and accelerate progress in science and engineering. As the Chief Operations Scientist for the [HamSCI](https://www.hamsci.org) Personal Space Weather Station Network, I work with a huge community of professional space scientists and amateur radio operators to gather crowdsourced geospace observations and use amateur radio as a scientific tool. You can see the latest observations [here,](https://pswsnetwork.eng.ua.edu/observations/observation_list/) or check out our [newsletter](www.hamsci.org/newsletter) to see what the community is up to. 
 
-I'm also interested in using virtual reality, sonification and other immersive tools to explore scientific data. 
+I'm also interested in using virtual reality, sonification and other immersive tools to explore scientific data. You can check out my thoughts on that [here.](https://eos.org/features/extended-reality-offers-opportunities-for-scientific-show-and-tell) I'm a _huge_ fan of the scientific visualization engine [OpenSpace](www.openspaceproject.com) for both work and play, and am very active on the OpenSpace Slack. You can see some of my demos [here.](https://www.youtube.com/watch?v=gcAMdylosF0&list=PLTvFnCylkeSBzXo7BVH0SzxiXEjGLZG2X&index=2)
 
-
+I'm currently contributing to the citizen science component of [CINEMA (Cross-scale Investigation of Earth’s Magnetotail and Aurora)](https://www.youtube.com/watch?v=n-ks0CCw0dM), a Dartmouth-led NASA heliophysics project that will use a fleet of nine spacecraft to study the Earth’s magnetosphere and space weather. The citizen science portion, [MOVIE (Multi-Platform Observations from Volunteers: Ionospheric Experiments)](https://hamsci.org/sites/default/files/article/Workshop_2026/HamSCI%20WS%20CINEMA%20MOVIE%20260315.pdf), brings together HamSCI with other citizen science projects to complement CINEMA observations and organize observation campaigns. 
 
 My communities
 ======
-In my copious free time, I develop open-source [carbon dioxide removal](https://cdrprimer.org/) technologies with the [OpenAir Collective](https://openaircollective.com/about/). I maintain the [OpenAir Zenodo](https://zenodo.org/communities/openair?q=&l=list&p=1&s=10&sort=newest) and help people document their hardware projects. (I'm a big believer in [FAIR](https://www.go-fair.org/) data and documentation -- as Leslie Lamport is said to have said, ``If you're thinking without writing, you only think you're thinking.'')
+<!-- In my copious free time, I develop open-source [carbon dioxide removal](https://cdrprimer.org/) technologies with the [OpenAir Collective](https://openaircollective.com/about/). I maintain the [OpenAir Zenodo](https://zenodo.org/communities/openair?q=&l=list&p=1&s=10&sort=newest) and help people document their hardware projects. (I'm a big believer in [FAIR](https://www.go-fair.org/) data and documentation -- as Leslie Lamport is said to have said, ``If you're thinking without writing, you only think you're thinking.'') !-->
 
 I'm an active alumna at CWRU, particularly through the [CWRU Film Society](https://films.case.edu) and the [Case Amateur Radio Club](https://w8edu.wordpress.com). 
 
