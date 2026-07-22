@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website. I'm currently a postdoctoral researcher for the NSF Office of Polar Programs. I work at the [Space Science Institute](https://www.spacescience.org) — they're in Boulder, Colorado, but I'm in Cleveland, Ohio most of the time. 
+Hi there! Welcome to my website. I'm currently a Research Scientist at the [Space Science Institute](https://www.spacescience.org) — they're in Boulder, Colorado, but I'm in Cleveland, Ohio most of the time. 
 
 This site isn't a comprehensive record of what I do, just stuff I wanted to be able to link to online. If you want to get in touch, have a look at the left sidebar. 
 
